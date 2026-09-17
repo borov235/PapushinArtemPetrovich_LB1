@@ -1,3 +1,6 @@
 <Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path="ARTIFACTS.md" />
+  </Folder>
   <Project Path="WpfApp1/SimpleCalculator.csproj" Id="40f2faa3-2aeb-46a7-bb1f-54829f599c75" />
 </Solution>
